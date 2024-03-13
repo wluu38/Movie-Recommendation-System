@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MySQLJDBCUtil
+comment0.text=\n\ Write\ a\ description\ of\ class\ mysqljdbc\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=java.sql.Connection\ getConnection()
+comment1.text=Get\ database\ connection\ *\ *\ @return\ a\ Connection\ object\ *\ @throws\ SQLException
+numComments=2
